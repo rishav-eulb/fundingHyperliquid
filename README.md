@@ -1,5 +1,3 @@
-Here’s a clean `README.md` you can drop into the repo:
-
 ````markdown
 # fundingHyperliquid
 
